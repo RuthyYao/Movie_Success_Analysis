@@ -33,7 +33,7 @@ The worldwide gross revenue typically peaks in May, July and November, potential
 
 This analysis leads to three recommendations for Microsoft to start the movie production business successfully.
 
-_ **Focus on genres with a mix of Animation, Sci-fi and Adventure.** This type of movies have the broadest span of audience demographics. Hence from a popularity and box office performance persepctive, those types of movie deliver the most success. 
+_ **Focus on genres with a mix of Animation, Sci-fi and Adventure.** This type of movies have potentially the broadest span of audience demographics. Hence from popularity and box office performance persepctives, those types of movie deliver the most success. 
 
 _ **Allocate at least $500m budget to movie production each year.** Given that a movie costs averagely $40m to $50m to produce with the Animation/Sci-fi/Adventure requiring even higher budget(at least $80m), Microsfot need to be prepared to invest at least $500m per year to to the new studio in order to make an impactful debut to the movie market as well as sustain the ongoing success of the studio. 
 
