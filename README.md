@@ -22,3 +22,9 @@ The most popular, as well as the best performing genres are Animation, Sci-fi an
 
 ![popularity_score_per_genre](./images/popularity_score_per_genre.png)
 ![gross_revenue_per_genre](./images/gross_revenye_per_genre.png)
+
+Studios commit a production budget of averagely $550-$700 per annum. 
+![studio_annual_production_budget](./images/studio_annual_production_budget.png)
+
+The worldwide gross revenue typically peaks in May, July and November.
+![average_gross_revenue_by_month](./average_gross_revenue_by_month.png)
