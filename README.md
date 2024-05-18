@@ -16,3 +16,9 @@ The analysis is built on the data collated from four well-known movie databases 
 
 The project uses descriptive analysis, including description of the average popularity and gross revenue by genres, the year-over-year production budget of an average studio and the trend/pattern of box office performance on a month-by-month basis over nine years' period. This provides valuable data insights to support the success of the new studio.  
 
+## Results
+
+The most popular, as well as the best performing genres are Animation, Sci-fi and Adventure. These genres also make the largest profit despite higher than average production budget.
+
+![popularity_score_per_genre](./images/popularity_score_per_genre.png)
+![gross_revenue_per_genre](./images/gross_revenye_per_genre.png)
