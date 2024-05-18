@@ -47,3 +47,25 @@ _ **Modelling to extract the insights from movie reviews and critiques** - Extra
 _ **Customer segmentation analysis** - Segmenting the customers based on demographics to analyze the genre prefernece and viewing behaviours of different customer groups. This will allow Miscrosoft to target certain customer groups for the movie production.
 
 _ **Awards analysis** - Dive into the Oscar-awarded movies to identify the key attributes of successful movies. 
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./Data_Insights_for_New_Movie_Studio.ipynb) or review this [presentation](./Data_Insights_for_New_Movie_Studio_Presentation.pdf).
+
+For additional info, contact Ruthy Yao at [zejia.yao@gmail.com](mailto:zejia.yao@.com)
+
+## Repository Structure
+
+```
+├── code
+│   ├── __init__.py
+│   ├── data_preparation.py
+│   ├── visualizations.py
+│   └── eda_notebook.ipynb
+├── data
+├── images
+├── __init__.py
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
+```
