@@ -8,7 +8,7 @@ This project analyses the key successful factors of a movie studio to prepare Mi
 
 ## Business Problem
 
-As a new entrant to the movie production market, Microsoft has limited industry knowledge. To complete with globally well-established production companies with generally over seven to eight decades of history, it is imperative to dive into the vast movie database to distill insights on where to start, when to start and how much funding is required. This will help Microsoft to better allocate the resources and increase the chances of success. 
+As a new entrant to the movie production market, Microsoft has limited industry knowledge. To complete with globally well-established production companies with generally over seven to eight decades of history, it is imperative to dive into the vast movie database to distill insights on where to start, when to start and how much funding is required. This will help Microsoft to better allocate the resources and increase its chances of success. 
 
 ## Data and Methods
 
@@ -28,3 +28,11 @@ Studios commit a production budget of averagely $550-$700 per annum.
 
 The worldwide gross revenue typically peaks in May, July and November.
 ![average_gross_revenue_by_month](./average_gross_revenue_by_month.png)
+
+## Conclusions
+
+This analysis leads to three recommendations for Microsoft to start the movie production business successfully.
+
+_ **Focus on genres with a mix of Animation, Sci-fi and Adventure.** This type of movies have the broadest span of audience demographics. Hence from a popularity and box office performance persepctive, those types of movie deliver the most success. 
+_ **Allocate at least $500m budget to movie production each year to make an impactful debut to the movie market.** 
+_ **Release movies in May/July or November to maximize the box office revenue and achieve the best theatrical view.** School holiday season is the best time to relase movie, especially for the Animation/Sci-fi/Adventure genres that target kids and families. Novermber is also a good time to release movie if Microsoft wants to compete in the upcoming Academy Awards as releasing a movie two or three months before the nomination of the awards will make it fresh in the voters' mind, increasing the chances of win.   
