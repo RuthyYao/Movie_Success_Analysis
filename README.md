@@ -1,6 +1,6 @@
 # Data Insights for Starting a New Movie Studio
 
-**Author**: [Ruthy Yao ](mailto:ruthy.yao@gmail.com)
+**Author**: [Ruthy Yao](mailto:zejia.yao@gmail.com)
 
 ## Overview
 
@@ -20,7 +20,7 @@ The project uses descriptive analysis, including description of the average popu
 The most popular, as well as the best performing genres are Animation, Sci-fi and Adventure. These genres also make the largest profit despite higher than average production budget.
 
 ![popularity_score_per_genre](./images/popularity_score_per_genre.png)
-![gross_revenue_per_genre](./images/gross_revenye_per_genre.png)
+![gross_revenue_per_genre](./images/gross_revenue_per_genre.png)
 
 Studios commit a production budget of averagely $550-$700 per annum. 
 ![studio_annual_production_budget](./images/studio_annual_production_budget.png)
@@ -60,10 +60,10 @@ For additional info, contact Ruthy Yao at [zejia.yao@gmail.com](mailto:zejia.yao
 │   ├── Source Data
 │       ├── bom.movie_gross.csv
 │       ├── imdb.title.basics.csv
-|       ├── tmdb.movies.csv
+│       ├── tmdb.movies.csv
 │       └── tn.movie_budgets.csv
-|   ├── df_movie.ipynb
-|   └── df_movie_explode.ipynb
+│   ├── df_movie.ipynb
+│   └── df_movie_explode.ipynb
 ├── images
 ├── Data_Insights_for_New_Movie_Studio.ipynb 
 ├── Data_Insights_for_New_Movie_Studio_presentation.pdf
