@@ -57,15 +57,16 @@ For additional info, contact Ruthy Yao at [zejia.yao@gmail.com](mailto:zejia.yao
 ## Repository Structure
 
 ```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
+├── Data
+│   ├── Source Data
+│       ├── bom.movie_gross.csv
+│       ├── imdb.title.basics.csv
+|       ├── tmdb.movies.csv
+│       └── tn.movie_budgets.csv
+|   ├── df_movie.ipynb
+|   └── df_movie_explode.ipynb
 ├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Data_Insights_for_New_Movie_Studio.ipynb 
+├── Data_Insights_for_New_Movie_Studio_presentation.pdf
+└── README.md
 ```
