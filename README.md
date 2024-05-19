@@ -26,7 +26,7 @@ Studios commit a production budget of averagely $550-$700 per annum.
 ![studio_annual_production_budget](./images/Studio_annual_production_budget.png)
 
 The worldwide gross revenue typically peaks in May, July and November, potentially due to school holiday and the time of annual Academy Awards. 
-![average_gross_revenue_by_month](./average_gross_revenue_by_month.png)
+![average_gross_revenue_by_month](./images/average_gross_revenue_by_month.png)
 
 ## Conclusions
 
