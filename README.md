@@ -1,3 +1,5 @@
+![homepage image](./images/front_image.jpg)
+
 # Data Insights for Starting a New Movie Studio
 
 **Author**: [Ruthy Yao](mailto:zejia.yao@gmail.com)
@@ -17,12 +19,12 @@ The project uses descriptive analysis, including description of the average popu
 
 ## Results
 
-The most popular, as well as the best performing genres are Animation, Sci-fi and Adventure. These genres also make the largest profit despite higher than average production budget.
+Based on the average popularity socre of each genre and the aerage worldwide gross revenue of each genre, the most popular and the best performing genres are Animation, Sci-fi and Adventure.
 
 ![popularity_score_per_genre](./images/popularity_score_per_genre.png)
 ![gross_revenue_per_genre](./images/gross_revenue_per_genre.png)
 
-The worldwide gross revenue typically peaks in May, July and November, potentially due to school holiday and the time of annual Academy Awards. 
+The worldwide gross revenue typically peaks in May, July and November, potentially due to school holiday and the "Academy Awards" effect - studios release their movies two or three months before the Awards in order to be eligible for the nomination. 
 ![average_gross_revenue_by_month](./images/average_gross_revenue_by_month.png)
 
 Studios commit a production budget of averagely $550-$700 per annum. 
