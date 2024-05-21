@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyses the key successful factors of a movie studio to prepare Microsoft to enter the movie production market. Description analysis of the populairty score, gross revenue, production budget and profit shows that the top performing genres are Animations, Sci-fi and Adventures and the best months to release movies in a year are May, July and Novemeber. It is advisable to allocate at least $500m of budget to movie production each year.
+This project analyses the key successful factors of a movie studio to prepare Microsoft to enter the movie production market. Description analysis of the popularity score, gross revenue, production budget and profit shows that the top performing genres are Animations, Sci-fi and Adventures and the best months to release movies in a year are May, July and Novemeber. It is advisable to allocate at least $500m of budget to movie production each year.
 
 ## Business Problem
 As a new entrant to the movie production market, Microsoft has limited industry knowledge. To complete with globally well-established production companies which have generally over seven to eight decades of history, it is crucial to dive into the vast movie database to distill insights on where to start, when to start and how much funding is required. This will help Microsoft to bridge the knowledge gap, allocate the resources more efficeintly and increase its chances of success for the new studio. 
@@ -22,11 +22,11 @@ The most popular, as well as the best performing genres are Animation, Sci-fi an
 ![popularity_score_per_genre](./images/popularity_score_per_genre.png)
 ![gross_revenue_per_genre](./images/gross_revenue_per_genre.png)
 
-Studios commit a production budget of averagely $550-$700 per annum. 
-![studio_annual_production_budget](./images/Studio_annual_production_budget.png)
-
 The worldwide gross revenue typically peaks in May, July and November, potentially due to school holiday and the time of annual Academy Awards. 
 ![average_gross_revenue_by_month](./images/average_gross_revenue_by_month.png)
+
+Studios commit a production budget of averagely $550-$700 per annum. 
+![studio_annual_production_budget](./images/Studio_annual_production_budget.png)
 
 ## Conclusions
 
