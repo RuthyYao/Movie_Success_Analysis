@@ -1,4 +1,4 @@
-![homepage image](./images/front_image.jpg)
+![homepage image](./images/front_image.png)
 
 # Data Insights for Starting a New Movie Studio
 
